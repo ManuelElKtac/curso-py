@@ -8,7 +8,7 @@ se puede usar comillas simples para separar las commillas y
 # al utilizar el prefijo "r" antes de una cadena de texto, se indica a Python
 #  que se trata de una "cadena cruda" o "raw string", lo que significa que
 # cualquier carácter especial dentro de la cadena se debe interpretar de forma
-#  literal, sin procesar secuencias de escape.
+#  literal, sin procesar secuencias de escape. Hola
 
 # comentario
 # \" = permite uqe se imprima "
